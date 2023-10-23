@@ -29,4 +29,19 @@ which one is better ?
 */
 
 // faster && less memory
-// different machine will result different time so use counts of simple operations (+, -, /, *)
+// different machine will result different time
+// so use counts of simple operations (+, -, /, *)
+
+/* Big O notation = time complexity*/
+
+// say we have a constant runtime = O(f(n)) = O(1) = big O of 1
+
+/* space complexity */
+
+// boolean, number is constant
+// strings are n depending on how many characters you have
+
+/* different complexities are there */
+
+// O(n), O(n^2), O(n log n), O(log n), O(1)
+// log is opposite of exponent
